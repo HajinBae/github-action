@@ -1,4 +1,4 @@
-name: Python
+name: Python3.8
 
 on: workflow_dispatch
 
